@@ -3,6 +3,9 @@
 ### Presentation Link: https://canva.link/uq0sizeh1cyesaq
 ### Video Link: https://drive.google.com/drive/u/0/folders/1G9vgZcCx4N2j0R9bW2Rcfsh4TtcWtZN-
 
+---
+
+
 > *Three Analytical Quests to Master Games World Egypt*
 
 This repository is my submission for the **Analytical SQL Business Game** — a challenge by our Analytical SQL instructor to come up with creative, real-world use cases for advanced SQL analytical features. I chose **Games World Egypt**, a fictional video game retail store, as my business domain and framed the presentation as three "quests" — each one tackling a genuine business problem using a powerful SQL technique.
